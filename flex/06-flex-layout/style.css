@@ -73,9 +73,3 @@ ul > * {
 .footer {
   background-color: #eee;
 }
-
-.container > * {
-  /* display: flex; */
-  /* justify-content: space-between; */
-  /* height: 100vh; */
-}
